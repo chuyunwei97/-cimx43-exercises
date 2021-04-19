@@ -1,10 +1,11 @@
 # CIM 443 Front End Fundamentals Exercise - Poem
   Made by {Chuyun Wei}
 1. What were you trying to accomplish? What was the tutorial or inspiration you tried to work with?
-    I would like to make a poetry book with page turning animation. Viewers can select a chapter in the table of contents or return to the home page.
-    Inspiration：
+    I would like to make a poetry book with flipping pages animation. Viewers can select a chapter in the table of contents or return to the home page.
     http://thestlbrowns.com/#/history/the-early-years 
     https://highline.huffingtonpost.com/articles/en/poor-millennials/
+    https://www.youtube.com/watch?v=IhFQXM2-rEQ
+    https://www.youtube.com/watch?v=hRQPQFqj3mo
 2. What was the most frustrating part of working on this exercise? The most rewarding?
     The design of the book did not achieve the desired effect; it was not realistic enough.
     The animation of turning left and right pages is smooth and successful.
